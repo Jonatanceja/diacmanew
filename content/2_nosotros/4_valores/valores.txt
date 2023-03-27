@@ -1,0 +1,19 @@
+Title: Valores
+
+----
+
+Icon:
+
+- 070-vest.svg
+
+----
+
+Icons:
+
+- calidad.svg
+- comunicacion.svg
+- servicio.svg
+- honestidad.svg
+- compromiso.svg
+- respeto.svg
+- trabajo-en-equipo.svg

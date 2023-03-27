@@ -1,0 +1,26 @@
+Title: Ladrillos
+
+----
+
+Description:
+
+- Block
+- Block negro
+- Block hueco
+- Bovedilla
+- Jarro
+- Sayula
+- ½ Adobon
+- Bóveda
+
+----
+
+Cover: - ladrillos.jpg
+
+----
+
+Icono: - ladrillos.png
+
+----
+
+Uuid: 6eIo4PqRtEqplVRM

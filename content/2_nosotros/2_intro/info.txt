@@ -1,0 +1,19 @@
+Title: Intro
+
+----
+
+Super: 15
+
+----
+
+Headline: Años de experiencia los que nos respaldan
+
+----
+
+Text: Somos la red de distribución de acero más grande de la zona. Ayudamos a nuestros clientes con las herramientas y materiales necesarias a través de nuestras tiendas ubicadas en la zona de Jocotepec.
+
+----
+
+Photo:
+
+- nosotros.jpg

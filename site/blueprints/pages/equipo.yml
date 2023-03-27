@@ -1,0 +1,15 @@
+title: Unete a nuestro equipo
+sections:
+  content:
+    type: fields
+    fields:
+      photo:
+        type: files
+        max: 1
+        label: Imagen
+      headline:
+        type: text
+        label: Encabezado
+      text:
+        type: textarea
+        label: Texto

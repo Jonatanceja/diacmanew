@@ -1,3 +1,60 @@
 title: Site
-preset: pages
-unlisted: true
+
+columns:
+  left:
+    width: 1/2
+    sections:
+      pages:
+        headline: Páginas
+        templates:
+          - home
+          - nosotros
+          - catalog
+          - contacto
+          - equipo
+          - error
+          - promociones
+          - default
+        status: all
+
+  right: 
+    width: 1/2
+    sections:
+    fields:
+      nombre:
+        type: text
+        label: Nombre de la empresa
+      telefono:
+        type: tel
+        label: Teléfono
+        icon: phone
+        width: 1/2
+      mail:
+        type: email
+        label: Correo electrónico
+        width: 1/2
+      direccion:
+        type: text
+        label: Calle
+      horario:
+        type: text
+        label: Horario
+      whatsapp:
+        type: url
+        label: Whatsapp
+      facebook:
+        type: url
+        label: Facebook
+        width: 1/2
+      instagram:
+        type: url
+        label: Instagram
+        width: 1/2
+      tiktok:
+        type: url
+        label: TikTok
+        width: 1/2
+      youtube:
+        type: url
+        label: YouTube
+        width: 1/2

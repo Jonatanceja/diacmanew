@@ -1,0 +1,193 @@
+Title: Únete a nuestro equipo
+
+----
+
+Photo: - vacantes.jpg
+
+----
+
+Headline: Únete al equipo DIACMA
+
+----
+
+Text:
+
+Intégrate al mejor equipo de trabajo y forma parte de nosotros. Solicitamos:
+
+-  Choferes
+-  Cajeras
+-  Personal Administrativo
+
+Ponte en contacto con nosotros para solicitar más información.
+
+**¡Te queremos en nuestro equipo!**
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: 
+
+----
+
+Fb-form-class: 
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: nombre
+  field_class: ""
+  req: 'false'
+  field_label: Nombre
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1634172644358_229
+- 
+  field_name: correo
+  field_class: ""
+  req: 'false'
+  field_label: Correo
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1634172654191_229
+- 
+  field_name: telefono
+  field_class: ""
+  req: 'false'
+  field_label: Teléfono
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_tel
+  _uid: fb_tel_1634172665092_229
+- 
+  field_name: puesto
+  field_class: ""
+  req: 'false'
+  field_label: Puesto que desea ocupar
+  multiple: 'false'
+  menuitems:
+    - 
+      item_label: Chofer
+      item_value: Chofer
+      item_state: 'false'
+    - 
+      item_label: Cajera
+      item_value: Cajera
+      item_state: 'false'
+    - 
+      item_label: Personal Administrativo
+      item_value: Personal administrativo
+      item_state: 'false'
+  _key: fb_select
+  _uid: fb_select_1634172727941_229
+
+----
+
+Fb-submit-label: Enviar
+
+----
+
+Fb-cancel-label: 
+
+----
+
+Fb-formbtns-class: 
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: false
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: 
+
+----
+
+Fb-error-msg: 
+
+----
+
+Fb-send-email: false
+
+----
+
+Fb-email-recipient: 
+
+----
+
+Fb-email-sender-type: false
+
+----
+
+Fb-email-sender: 
+
+----
+
+Fb-email-sender-field: 
+
+----
+
+Fb-email-subject: 
+
+----
+
+Fb-save-submissions: false
+
+----
+
+Fb-key-field: 
+
+----
+
+Fb-received-submissions: 
+
+----
+
+Uuid: FyecIEQo4R2BHNHF

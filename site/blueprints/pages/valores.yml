@@ -1,0 +1,13 @@
+title: Valores
+fields:
+  icon:
+    type: files
+    max: 1
+    label: Icono
+    layout: cards
+    width: 1/3
+  icons:
+    type: files
+    label: Iconos
+    width: 2/3
+    layout: cards

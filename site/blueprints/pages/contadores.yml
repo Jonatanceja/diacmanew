@@ -1,0 +1,13 @@
+title: Contadores
+
+fields:
+  contadores:
+    label: Contadores
+    type: structure
+    fields:
+      number:
+        type: number
+        label: Número
+      text:
+        type: text
+        label: Texto

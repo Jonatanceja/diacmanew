@@ -1,0 +1,29 @@
+Title: Herrajes
+
+----
+
+Description:
+
+- Candados 
+- Discos
+- Fierro Vaciado 
+- Caretas 
+- Pintura 
+- Guantes
+- Pasadores
+- Chapas
+- Bisagras
+- Soldadura
+- Etc.
+
+----
+
+Cover: - r9a5094.jpeg
+
+----
+
+Icono: - herrajes.svg
+
+----
+
+Uuid: tXuTdUGaxQ4m9VI3

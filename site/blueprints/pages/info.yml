@@ -1,0 +1,35 @@
+title: Sección de información
+columns:
+  left: 
+    width: 1/2
+    sections:
+      content:
+        type: fields
+        fields:
+          super:
+            type: text
+            label: Texto grande
+          headline:
+            type: text
+            label: Encabezado
+          text:
+            type: textarea
+            label: Texto
+
+  
+  right: 
+    width: 1/2
+    sections:
+      photo:
+        type: fields
+        fields:
+          photo:
+            type: files
+            label: Imagen 
+            max: 1
+            layout: cards
+            size: large
+            image:
+              cover: true
+              back: white
+

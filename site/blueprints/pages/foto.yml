@@ -1,0 +1,8 @@
+title: Imagen simple
+fields:
+  photo:
+    type: files
+    label: Imagen simple
+    max: 1
+    layout: cards
+    size: huge

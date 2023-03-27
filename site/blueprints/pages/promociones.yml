@@ -1,0 +1,16 @@
+title: Promociones
+
+fields:
+  carrousel:
+    type: structure
+    fields:
+      headline:
+        type: text
+        label: Titúlo del Video
+      text:
+        type: textarea
+        label: Texto
+      video:
+        type: url
+        label: Enlace del video
+      

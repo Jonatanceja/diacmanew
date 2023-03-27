@@ -1,0 +1,16 @@
+Title: Slider
+
+----
+
+Gallery:
+
+- editadas.jpg
+- acero.jpeg
+- cemento.jpeg
+- ladrillos.jpeg
+- herrajes.jpeg
+- otros.jpeg
+
+----
+
+Uuid: J37aZmlw7fkZVEao

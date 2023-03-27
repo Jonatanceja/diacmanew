@@ -1,0 +1,11 @@
+title: Portada
+
+fields:
+  photo:
+    type: files
+    label: Imagen
+    max: 1
+    layout: cards
+  headline:
+    type: text
+    label: Encabezado

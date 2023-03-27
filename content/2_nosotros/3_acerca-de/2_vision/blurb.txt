@@ -1,0 +1,11 @@
+Title: Visión
+
+----
+
+Icon:
+
+- vision.svg
+
+----
+
+Text: Somos la mejor distribuidora de acero y materiales para la construcción orientados a satisfacer las necesidades de nuestros clientes, colaboradores y sociedad.

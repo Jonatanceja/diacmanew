@@ -1,0 +1,21 @@
+Heading: Slider prueba
+
+----
+
+Sub: Solo para probar slides
+
+----
+
+Text: Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue. Nullam quis risus eget urna mollis ornare vel eu leo. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget.
+
+----
+
+Boton: 
+
+----
+
+Enlace: 
+
+----
+
+Alt: 

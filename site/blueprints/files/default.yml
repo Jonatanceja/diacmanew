@@ -1,0 +1,20 @@
+title: Slider
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  sub:
+    type: text
+    label: Sub encabezado
+  text:
+    type: textarea
+    label: Text
+  boton:
+    type: text
+    label: Texto de botón
+  enlace:
+    type: text
+    label: Enlace de botón
+  alt:
+    type: text
+    label: Texto alternativo

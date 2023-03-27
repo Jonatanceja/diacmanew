@@ -1,0 +1,25 @@
+Heading: Bienvenidos a Diacma
+
+----
+
+Sub: Somos tu mejor opción
+
+----
+
+Text: Somos una distribuidora de aceros y materiales para la construcción con los más altos estándares de servicio, calidad y precio.
+
+----
+
+Boton: 
+
+----
+
+Enlace: 
+
+----
+
+Alt: 
+
+----
+
+Uuid: iPvxDevJXgcLmkHC

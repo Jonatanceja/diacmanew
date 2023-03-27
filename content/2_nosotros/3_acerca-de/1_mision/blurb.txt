@@ -1,0 +1,11 @@
+Title: Misión
+
+----
+
+Icon:
+
+- mision.svg
+
+----
+
+Text: Somos una distribuidora de aceros y materiales para la construcción con los más altos estándares de servicio, calidad y precio.

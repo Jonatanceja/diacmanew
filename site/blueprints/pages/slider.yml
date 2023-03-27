@@ -1,0 +1,10 @@
+title: Slider
+
+fields: 
+  gallery:
+    type: files
+    label: Galeria
+    layout: cards
+    image:
+      cover: true
+    template: slider

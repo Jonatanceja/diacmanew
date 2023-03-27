@@ -1,0 +1,15 @@
+title: Socios comerciales
+fields:
+  headline:
+    type: text
+    label: Encabezado
+  sub:
+    type: text
+    label: Sub título
+  gallery:
+    type: files
+    label: Galería
+    layout: cards
+    image:
+      back: white
+      cover: false

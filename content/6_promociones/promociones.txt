@@ -1,0 +1,45 @@
+Title: Promociones
+
+----
+
+Carrousel:
+
+- 
+  headline: 'Reto DIACMA Albañil vs. Gym  Diacma.Jocotepec 14 suscriptores'
+  text: |
+    ¿Albañil o Chico Fit?
+    Este mes en Diacma haremos el
+    “Reto Albañil vs. Gym” donde dos participantes demostrarán quien es más fuerte.
+    ¿Tú qué team eres?
+    Reacciona con:
+    ❤️ Albañil
+    👍🏻 Gym
+    
+    Espera el siguiente reto …
+  video: 'https://www.youtube.com/watch?v=gXvoBuz7mE8&ab_channel=Diacma.Jocotepec'
+- 
+  headline: Segundo reto DIACMA albañil vs. gym
+  text: |
+    Segundo Reto DIACMA!
+    En este reto veremos quien tiene más fuerza en esos bracitos 💪🏻…
+    Déjanos en los comentarios que team eres si Albañil 🧱🏗️ o Gym 💪🏻🏋️‍♀️…
+    Síguenos en nuestras redes sociales para que no te pierdas el próximo reto DIACMA 🏗️🧱💪🏻
+  video: 'https://www.youtube.com/watch?v=AG7h3AOmsZI&ab_channel=Diacma.Jocotepec'
+- 
+  headline: Reto DIACMA Albañil vs. Gym
+  text: |
+    🧱vs.💪🏻
+    ¿Albañil o Chico Fit?
+    Este mes en Diacma haremos el
+    “Reto Albañil vs. Gym” donde dos participantes demostrarán quien es más fuerte.
+    ¿Tú qué team eres?
+    Reacciona con:
+    ❤️ Albañil
+    👍🏻 Gym
+    
+    Espera el siguiente reto …
+  video: 'https://www.youtube.com/watch?v=gXvoBuz7mE8&ab_channel=Diacma.Jocotepec'
+
+----
+
+Uuid: gCs0DKlK5dR48QVT

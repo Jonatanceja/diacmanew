@@ -1,0 +1,15 @@
+Title: Portada
+
+----
+
+Photo:
+
+- image.jpeg
+
+----
+
+Headline: ¿Quienes somos?
+
+----
+
+Text: 

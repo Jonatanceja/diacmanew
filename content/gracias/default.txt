@@ -1,0 +1,12 @@
+Title: Gracias
+
+----
+
+Text:
+
+# Muchas gracias 
+Su formulario ha sido enviado con éxito.
+
+----
+
+Uuid: qBR7midUzNilH7QN

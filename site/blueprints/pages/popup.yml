@@ -1,0 +1,11 @@
+title: Popup
+
+fields:
+  popup:
+    type: files
+    label: Popup
+    max: 1
+    size: huge
+    image:
+      cover: true
+    

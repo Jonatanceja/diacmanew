@@ -1,0 +1,34 @@
+title: Categoría
+
+columns:
+  left:
+    width: 3/4
+    sections:
+      pages:
+        headline: Páginas
+        templates:
+          - producto
+
+  right: 
+    width: 1/4
+    sections:
+    fields:
+      description:
+        label: Descripción de categoría
+        type: textarea
+      cover:
+        label: Portada de categoría
+        type: files
+        max: 1
+        layout: cards
+        image:
+          cover: false
+          back: black
+      icono:
+        label: Icono de categoría
+        type: files
+        max: 1
+        layout: cards
+        image:
+          cover: false
+          back: black

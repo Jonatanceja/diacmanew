@@ -1,0 +1,21 @@
+Heading: Comunicación
+
+----
+
+Sub: 
+
+----
+
+Text: 
+
+----
+
+Boton: 
+
+----
+
+Enlace: 
+
+----
+
+Alt: 

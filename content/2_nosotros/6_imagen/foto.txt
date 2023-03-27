@@ -1,0 +1,7 @@
+Title: Imagen
+
+----
+
+Photo:
+
+- saludo.jpg

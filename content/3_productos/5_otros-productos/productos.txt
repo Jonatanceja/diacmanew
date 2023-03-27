@@ -1,0 +1,21 @@
+Title: Otros productos
+
+----
+
+Description:
+
+- Tinacos
+- Cisternas
+- Tubos de Cartón
+
+----
+
+Cover: - otros.jpg
+
+----
+
+Icono: - otros.png
+
+----
+
+Uuid: TYzntnuDQlukQnTU

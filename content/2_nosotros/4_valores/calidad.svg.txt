@@ -1,0 +1,21 @@
+Heading: Calidad
+
+----
+
+Sub: 
+
+----
+
+Text: 
+
+----
+
+Boton: 
+
+----
+
+Enlace: 
+
+----
+
+Alt: 

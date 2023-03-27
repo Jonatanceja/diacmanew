@@ -1,0 +1,11 @@
+title: Misión, visión, valores
+fields:
+  icon:
+    type: files
+    label: Icono
+    max: 1
+    width: 1/2
+  text:
+    type: textarea
+    label: Texto
+    width: 1/2

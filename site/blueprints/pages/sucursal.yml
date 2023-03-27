@@ -1,0 +1,8 @@
+title: Sucursal
+fields:
+  map:
+    type: textarea
+    label: Mapa de Google
+  direccion:
+    type: textarea
+    label: Dirección

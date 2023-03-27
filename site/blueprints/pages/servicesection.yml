@@ -1,0 +1,23 @@
+title: Sección de servicios
+
+fields:
+  heading:
+    type: text
+    label: Encabezado
+  sub:
+    type: text
+    label: Sub título
+  text:
+    type: text
+    label: Texto
+  button:
+    label: Texto del botón
+    type: text
+  link:
+    label: Enlace del botón
+    type: text
+  catalogos:
+    label: Indice de categorías
+    type: pages
+    templates: productos
+  
